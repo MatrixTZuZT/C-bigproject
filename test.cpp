@@ -9,6 +9,9 @@
 #include <iostream>
 #include <cstdio>
 #include <set>
+#include <cstring>
+#include <vector>
+#include <stack>
 using namespace std;
 
 int main(void)
